@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Drushti</string>
+    <string name="speech_prompt">say hello</string>
+    <string name="speech_not_supported">not supported</string>
+    <string name="editText_hint">Enter city name</string>
+    <string name="weather_img">weather image</string>
+    =
+
+</resources>
